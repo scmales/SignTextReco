@@ -5,4 +5,4 @@
 opencvsharp3 <br>
 tesseract-3.3.0  (tesseract Chinese package from its website)
 ### Result
-![image](https://github.com/scmales/SignTextReco/tree/master/imgagesRet/result.png)
+![image](https://github.com/scmales/SignTextReco/blob/master/imgagesRet/result.png)
